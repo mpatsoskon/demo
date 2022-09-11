@@ -53,44 +53,36 @@
   ],
   "keyFacts": [
       {
-        "name": "Έναρξη",
-        "calories": 159
+        "name": "Έναρξη Προγράμματος",
+        "calories": "04/10/2022"
       },
       {
         "name": "Προθεσθία υποβολής αιτήσεων",
-        "calories": 237
+        "calories": "10/09/2022"
       },
       {
         "name": "Διάρκεια Φοίτησης",
-        "calories": 262
+        "calories": "Full-time: 1 έτος & Part-time 2 έτη"
       },
       {
         "name": "Αιτήσεις 2022-23",
-        "calories": 305
+        "calories": "Κλειστές"
       },
       {
         "name": "Δίδακτρα",
-        "calories": 356
+        "calories": "Full-time: 4000€ & Part-time 5000€"
       },
       {
         "name": "Ελάχιστα Κριτήρια Εισαγωγής",
-        "calories":"2:1 degree or equivalent in any discipline and good quantitative skills, at least to A level Mathematics (or the equivalent)"
+        "calories":" "
       },
       {
         "name": "Χρηματοδότηση",
-        "calories": 392
+        "calories": "Προβλέπεται σύμφωνα με την προκήρυξη η χορήγηση υποτροφιών."
       },
       {
         "name": "Τοποθεσία",
-        "calories": 408
-      },
-      {
-        "name": "Donut",
-        "calories": 452
-      },
-      {
-        "name": "KitKat",
-        "calories": 518
+        "calories": "Γραμματεία Μεταπτυχιακών Σπουδών Οικονομικού Πανεπιστημίου Αθηνών Ευελπίδων 47 και Λευκάδος 33, Αθήνα - Τ.Κ. 113 62 Γραφείο Αρ. 705 (7ος όροφος)."
       }
     ]
 }
