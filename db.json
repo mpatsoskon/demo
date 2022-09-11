@@ -54,43 +54,43 @@
   "keyFacts": [
       {
         "name": "Έναρξη",
-        "calories": 159,
+        "calories": 159
       },
       {
         "name": "Προθεσθία υποβολής αιτήσεων",
-        "calories": 237,
+        "calories": 237
       },
       {
         "name": "Διάρκεια Φοίτησης",
-        "calories": 262,
+        "calories": 262
       },
       {
         "name": "Αιτήσεις 2022-23",
-        "calories": 305,
+        "calories": 305
       },
       {
         "name": "Δίδακτρα",
-        "calories": 356,
+        "calories": 356
       },
       {
         "name": "Ελάχιστα Κριτήρια Εισαγωγής",
-        "calories":"2:1 degree or equivalent in any discipline and good quantitative skills, at least to A level Mathematics (or the equivalent)",
+        "calories":"2:1 degree or equivalent in any discipline and good quantitative skills, at least to A level Mathematics (or the equivalent)"
       },
       {
         "name": "Χρηματοδότηση",
-        "calories": 392,
+        "calories": 392
       },
       {
         "name": "Τοποθεσία",
-        "calories": 408,
+        "calories": 408
       },
       {
         "name": "Donut",
-        "calories": 452,
+        "calories": 452
       },
       {
         "name": "KitKat",
-        "calories": 518,
+        "calories": 518
       },
     ]
 }
