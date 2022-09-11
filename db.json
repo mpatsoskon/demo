@@ -53,15 +53,15 @@
   ],
   "keyFacts": [
       {
-        "name": 'Start date',
+        "name": "Έναρξη",
         "calories": 159,
       },
       {
-        "name": 'Application deadline',
+        "name": "Προθεσθία υποβολής αιτήσεων",
         "calories": 237,
       },
       {
-        "name": 'Duration',
+        "name": "Διάρκεια Φοίτησης",
         "calories": 262,
       },
       {
@@ -69,27 +69,27 @@
         "calories": 305,
       },
       {
-        "name": 'Tuition fee',
+        "name": "Δίδακτρα",
         "calories": 356,
       },
       {
-        "name": 'Minimum entry requirement',
+        "name": "Ελάχιστα Κριτήρια Εισαγωγής",
         "calories":'2:1 degree or equivalent in any discipline and good quantitative skills, at least to A level Mathematics (or the equivalent)',
       },
       {
-        "name": 'Financial Support',
+        "name": "Χρηματοδότηση",
         "calories": 392,
       },
       {
-        "name": 'Location',
+        "name": "Τοποθεσία",
         "calories": 408,
       },
       {
-        "name": 'Donut',
+        "name": "Donut",
         "calories": 452,
       },
       {
-        "name": 'KitKat',
+        "name": "KitKat",
         "calories": 518,
       },
     ]
