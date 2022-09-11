@@ -50,5 +50,48 @@
       "time": "12:00",
       "organizer": "Kat Laydee"
     }
-  ]
+  ],
+  "keyFacts": [
+      {
+        name: 'Start date',
+        calories: 159,
+      },
+      {
+        name: 'Application deadline',
+        calories: 237,
+      },
+      {
+        name: 'Duration',
+        calories: 262,
+      },
+      {
+        name: 'Applications 2022-23',
+        calories: 305,
+      },
+      {
+        name: 'Tuition fee',
+        calories: 356,
+      },
+      {
+        name: 'Minimum entry requirement',
+        calories:
+          '2:1 degree or equivalent in any discipline and good quantitative skills, at least to A level Mathematics (or the equivalent)',
+      },
+      {
+        name: 'Financial Support',
+        calories: 392,
+      },
+      {
+        name: 'Location',
+        calories: 408,
+      },
+      {
+        name: 'Donut',
+        calories: 452,
+      },
+      {
+        name: 'KitKat',
+        calories: 518,
+      },
+    ]
 }
